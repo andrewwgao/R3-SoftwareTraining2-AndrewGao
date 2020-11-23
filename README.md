@@ -15,3 +15,6 @@ Created a python program that generates a random maze everytime the program is r
 
 - Program starts by generating a n x n grid based on the value of n (random number between 5 and 50)
 - Maze is generated in real life at 60FPS
+
+![5x5 Maze](5x5.jpg)
+![9x9 Maze](9x9.jpg)
