@@ -13,5 +13,5 @@ Created a python program that generates a random maze everytime the program is r
 3. If all adjacent cells have been visited, go back to the last cell that has no sides removed and repeat
 4. Maze is generated when all cells have been visited
 
-- Program starts by generating a n x n grid based on the value of n (random number between 2 and 50)
+- Program starts by generating a n x n grid based on the value of n (random number between 5 and 50)
 - Maze is generated in real life at 60FPS
