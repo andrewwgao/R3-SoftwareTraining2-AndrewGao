@@ -22,7 +22,7 @@ Created a python program that generates a random maze everytime the program is r
 ## Milestone #2
 Created a send and receive program on python using the TCP communication protocol, each step will take 1 second, therefore a new command is sent every 1 second until the end of the solution array has been reached. At the end send a final string of “[0][0][0][0]” to stop. Maze's path solution was provided in advance.
 
-![](tcp.jpeg)
+![](tcp.jpg)
 
 ## Steps
 - Never used socket with python, so did research on https://pythonprogramming.net/sockets-tutorial-python-3/ (most tcp code copied from there)
